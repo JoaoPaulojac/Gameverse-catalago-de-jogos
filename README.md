@@ -13,7 +13,7 @@ O **GameVerse** é uma plataforma de gestão de coleções de videojogos desenvo
     
 *   **Perfis Personalizados**: Suporte para upload de fotos de perfil e nomes de utilizador únicos.
     
-*   **Painel de Controlo**: Os utilizadores podem editar as suas informações (e-mail, senha, nome e foto) ou apagar a sua conta permanentemente.
+*   **Painel de Controle**: Os utilizadores podem editar as suas informações (e-mail, senha, nome e foto) ou apagar a sua conta permanentemente.
     
 
 ### 🎮 Gestão de Jogos (CRUD)
